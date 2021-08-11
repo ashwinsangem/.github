@@ -1,0 +1,6 @@
+{
+    "name": "Gulp",
+    "description": "Build a Gulp project with npm.",
+    "iconName": "gulp",
+    "categories": ["npm", "Gulp"]
+}
